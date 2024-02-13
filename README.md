@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm currently working on some side projects.
+I'd like to start by creating a website for my portfolio and slowly populating it. 😁
+
+Pronouns: he/him
 <!--
 **kinecelaron/kinecelaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
