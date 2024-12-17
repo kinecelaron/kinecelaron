@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm currently working on some side projects.
-I'd like to start by creating a website for my portfolio and slowly populating it. 😁
+I'd like to create a website for my portfolio and slowly populate it. 😁
 
 Pronouns: he/him
 <!--
